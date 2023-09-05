@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endorodrigo&label=Profile%20views&color=0e75b6&style=flat" alt="endorodrigo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=endorodrigo" alt="endorodrigo" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=endorodrigo&theme=gitdimmed
 
 - 🔭 I’m currently working on **programming fundamentals**
 
