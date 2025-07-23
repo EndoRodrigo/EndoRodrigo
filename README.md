@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EndoRodrigo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&title=Reviews,Joined_2020,Commits,Issues,Experience,PullRequest,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&title=Reviews,Joined_2020,Commits,Issues,Experience,PullRequest,Repositories,Stars,Followers)]
 
 
 ### ✍️ Random Dev Quote
