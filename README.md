@@ -70,11 +70,5 @@ Mi experiencia en backend y testing me permite crear apps móviles no solo funci
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-*(pueden quedarse igual, no afectan el enfoque)*
-
----
 
