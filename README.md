@@ -1,10 +1,3 @@
-Perfecto 🙌
-Te dejo una **versión actualizada y re-enfocada al desarrollo móvil con Flutter**, manteniendo tu background Full Stack como fortaleza diferencial (especialmente backend + testing).
-
-Puedes usarla tal cual para tu **README de GitHub / LinkedIn / CV** 👇
-
----
-
 # 💫 About Me
 
 📱👨‍💻 **Mobile Developer especializado en Flutter**, con sólida base **Full Stack** y experiencia previa en desarrollo backend con **Spring Boot** y frontend web con **Angular**. Destaco por construir aplicaciones móviles **escalables, mantenibles y orientadas a calidad**, aplicando buenas prácticas de arquitectura y testing.
@@ -85,18 +78,3 @@ Mi experiencia en backend y testing me permite crear apps móviles no solo funci
 
 ---
 
-### 💡 Recomendación extra (opcional)
-
-Si tu objetivo es **Flutter Developer**, te sugiero:
-
-* Poner **Flutter primero** en el título y stacks.
-* Crear 1–2 repos Flutter bien documentados (clean architecture + screenshots).
-* Añadir sección: **📱 Featured Flutter Projects**.
-
-Si quieres, en el siguiente mensaje puedo:
-
-* 🔥 Ajustarlo para **LinkedIn**
-* 📄 Convertir esto en **perfil profesional para CV**
-* 📱 Ayudarte a describir **proyectos Flutter reales**
-
-Tú dime 👌
