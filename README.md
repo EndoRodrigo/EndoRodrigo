@@ -1,6 +1,6 @@
 # 💫 About Me
 
-📱👨‍💻 **Mobile Developer especializado en Flutter**, con sólida base **Full Stack** y experiencia previa en desarrollo backend con **Spring Boot** y frontend web con **Angular**. Destaco por construir aplicaciones móviles **escalables, mantenibles y orientadas a calidad**, aplicando buenas prácticas de arquitectura y testing.
+📱👨‍💻 **Mobile Developer especializado en Flutter**, con sólida base **Full Stack** y experiencia previa en desarrollo backendy frontend con **Spring Boot**. Destaco por construir aplicaciones móviles **escalables, mantenibles y orientadas a calidad**, aplicando buenas prácticas de arquitectura y testing.
 
 🔭 Actualmente estoy trabajando en:
 
